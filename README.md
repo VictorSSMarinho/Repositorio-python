@@ -1,2 +1,0 @@
-# Repositorio python
-Python
